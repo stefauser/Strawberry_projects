@@ -8,7 +8,7 @@ Este es un bot de Telegram desarrollado en Python para gestionar la atención al
 * **Información:** Visualización clara de dirección, horarios y ubicación.
 * **Privacidad:** Configuración segura mediante variables de entorno (.env).
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 * **Lenguaje:** Python 3
 * **Librería:** `pyTelegramBotAPI` (telebot)
 * **Gestión de Configuración:** `python-dotenv`
