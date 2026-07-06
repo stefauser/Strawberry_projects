@@ -1,6 +1,6 @@
 # 🍓 Bot de Telegram: Pastelería Fresa Dulce
 
-Este es un bot de Telegram desarrollado en Python para gestionar la atención al cliente de la **Pastelería Fresa Dulce**. Permite a los clientes obtener información rápida, ver el catálogo y contactar directamente con el establecimiento.
+Este es un bot de Telegram desarrollado en Python para gestionar la atención al cliente de la Pastelería Fresa Dulce. Permite a los clientes obtener información rápida, ver el catálogo y contactar directamente con el establecimiento.
 
 ## Características
 * **Menú Interactivo:** Navegación sencilla mediante botones.
